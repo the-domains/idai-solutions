@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[IDAI solutions]]></title>
+        <description><![CDATA[IDAI solutions]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 30 Nov 2015 04:30:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My semester in Australia trial]]></title>
+            <description><![CDATA[<article><h1>My semester in Australia trial</h1><p>My semester in Australia </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66536dc2-1dc9-4de3-a09d-d3bc30200027.JPG"></article>]]></description>
+            <link>undefinedmy-semester-in-australia-trial/index.html</link>
+            <guid isPermaLink="false">324200d0-d1c2-4b72-9af5-79a636c71ce3</guid>
+            <pubDate>Mon, 30 Nov 2015 04:30:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
